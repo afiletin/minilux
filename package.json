@@ -1,0 +1,12 @@
+{
+  "displayName": "Minilux",
+  "name": "Minilux",
+  "theme": "Minilux",
+  "version": "1.0.0",
+  "description": "A fresh and minimal Mailspring theme based on Ido theme",
+  "license": "GPL-3.0",
+  "engines": {
+    "mailspring": "*"
+  },
+  "private": true
+}
